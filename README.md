@@ -1,2 +1,0 @@
-# LB1
-WEB PROG
